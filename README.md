@@ -1,9 +1,9 @@
-#🧙‍♂️ Protótipo de RPG – Estudo em Godot (GDScript)
+# 🧙‍♂️ Protótipo de RPG – Estudo em Godot (GDScript)
 
 Este repositório contém um protótipo de RPG desenvolvido como projeto pessoal para estudo, utilizando a engine Godot e a linguagem GDScript. O objetivo é explorar e implementar mecânicas básicas de movimentação, animação e combate em um ambiente 2D.
 
 ---
-##🔧 Tecnologias Utilizadas
+## 🔧 Tecnologias Utilizadas
 
 Godot Engine – Versão 4.x
 
@@ -35,7 +35,7 @@ Execute a cena principal para iniciar o jogo.
 
 ---
 
-🧠 Objetivo do Projeto
+## 🧠 Objetivo do Projeto
 
 Este protótipo foi desenvolvido com o intuito de aprofundar o conhecimento na criação de jogos 2D utilizando a Godot Engine. Embora o projeto não esteja concluído, ele serve como base para futuras expansões, como:
 
